@@ -1,5 +1,3 @@
-# Requirements
-
 ## LifeFORM
 
 - Herman Kolgen
