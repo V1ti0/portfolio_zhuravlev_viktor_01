@@ -1,9 +1,10 @@
 ## LifeFORM
-
+![gars_bule](/BIAN_LifeFORM/media/gars_bule.png)
 LifeFORM a été réalisé en 2020, par Herman Kolgen et j'ai eu la chance de voir cette oeuvre à l'exposition BIAN, à l'Arsenal art contemporain de Montréal, le 9 de février.
 
 
 ## Description
+![description](/BIAN_LifeFORM/media/description.png)
 - LifeForm est une installation audiovisuelle qui nous offre une vidéo de 10 minutes avec beaucoup des effets spéciaux dans le plan visuelle et audio. Cette oeuvre nous démontre que les humains sont soumis à des changements biologiques et des mutations génétiques aléatoires. Et que nous évualuons avec le temps et nous sommes entournés par les technologies.  
 - En fait, l'installation donne l'impression d'être un mini-cinéma car elle n'a qu'un gras écran sur un mur dans une chambre avec 4 petits sofas.
 - Elle est composé d'un grand écran avec une résolution de 3240 x 1080 pxl, des haut-parleurs avec audio 2.1 et 4 sofas.
@@ -20,12 +21,7 @@ LifeFORM a été réalisé en 2020, par Herman Kolgen et j'ai eu la chance de vo
 
 # Photographies
 
-![bules](/BIAN_LifeFORM/media/bules.jpg)
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation
+![bules](/BIAN_LifeFORM/media/bules.png)
+
+
 
