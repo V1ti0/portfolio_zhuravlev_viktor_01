@@ -4,14 +4,14 @@ LifeFORM a été réalisé en 2020, par Herman Kolgen et j'ai eu la chance de vo
 
 
 ## Description
-- LifeForm est une installation audiovisuelle qui nous offre un video de 10 minutes avec beacoup des effets spéciaux dans le plan visuelle et audio. Ce oeuvre nous demontre que les humains sont soumise à des changements biologiques et des mutations gènètiques alèatoires. Et que nous évualuons avec le temps et nous sommes entournés par les technologies.  
-- En fait, l'installation donne l'impression de être un mini cinema car elle n'a que un gras écran sur un mur dans une chambre avec 4 petit sofas.
+- LifeForm est une installation audiovisuelle qui nous offre une vidéo de 10 minutes avec beaucoup des effets spéciaux dans le plan visuelle et audio. Cette oeuvre nous démontre que les humains sont soumis à des changements biologiques et des mutations génétiques aléatoires. Et que nous évualuons avec le temps et nous sommes entournés par les technologies.  
+- En fait, l'installation donne l'impression d'être un mini-cinéma car elle n'a qu'un gras écran sur un mur dans une chambre avec 4 petits sofas.
 - Elle est composé d'un grand écran avec une résolution de 3240 x 1080 pxl, des haut-parleurs avec audio 2.1 et 4 sofas.
 
 ## Expérience vécue
-- Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
--  Ce qui vous a plu, vous a donné des idées et justifications
--  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+ - L'oeuvre apporte du calme. Tout ce qu'il y avait à faire, c'était s'assoir et regarder l'écran.
+-  J'ai aimé l'expérience car il a offert beaucoup des effets spéciaux dans le plan visuel. Ce que m'a plus aussi est l'aout de cette oeuvre, il y avait beaucoup de basse et d'effets de distorsions.
+-  Personallement, si je ferai une oeuvre pareil, j'aurai mis des écrans sur chauque mûr pour rendre l'expérience plus unique pour qu'elle ne donne pas l'impression d'un cinéma. 
 
 ## Références
 
