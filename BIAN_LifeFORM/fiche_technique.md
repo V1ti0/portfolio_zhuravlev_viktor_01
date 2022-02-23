@@ -1,10 +1,7 @@
 ## LifeFORM
 
-- Herman Kolgen
-- réalisé en 2020
-- BIAN
-- Arsenal art contemporain Montréal
-- Le 9 de Février
+LifeFORM a été réalisé en 2020, par Herman Kolgen et j'ai eu la chance de voir cette oeuvre à l'exposition BIAN, à l'Arsenal art contemporain de Montréal, le 9 de février.
+
 
 ## Description
 - Description de l'oeuvre ou du dispositif multimédia 
