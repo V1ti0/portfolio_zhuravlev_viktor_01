@@ -19,6 +19,8 @@ LifeFORM a été réalisé en 2020, par Herman Kolgen et j'ai eu la chance de vo
 - http://kolgen.net/nuevo/lifeform/
 
 # Photographies
+
+![bules](/BIAN_LifeFORM/media/bules.jpg)
 - photographie de l'oeuvre ou du dispositif dans son ensemble
 - photographie de l'oeuvre ou du dispositif dans son ensemble
 - photographies des composantes de l'oeuvre
