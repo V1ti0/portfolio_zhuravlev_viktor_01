@@ -1,4 +1,4 @@
-# Requirements
+# Conditions
 
 ## titre de l'oeuvre
 
