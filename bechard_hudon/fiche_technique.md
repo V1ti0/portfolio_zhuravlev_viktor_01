@@ -24,7 +24,7 @@ Les éléments nécessaires pour la mise en exposition:
 - Mouvement
 
 ## Expérience vécue
-#Court exemple de l'expérience
+Court video de l'expérience:
 
 [![video_exemple](https://img.youtube.com/vi/80E5bZymAro/0.jpg)](https://www.youtube.com/watch?v=80E5bZymAro)
 
