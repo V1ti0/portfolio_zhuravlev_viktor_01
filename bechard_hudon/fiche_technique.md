@@ -1,7 +1,7 @@
 ## Mécanismes de dessaisissement
 ![image_representation](/bechard_hudon/medias/image_representation.png)
 
-__Mécanismes de dessaisissement__ est une oeuvre crée par Béchard Hudon en 2019, dernièrement exposé?(idk if das le word) a l'exposition *Configurations du sensible* qui a lieu de 20 février à 16 avril à la place des Arts à Laval. J'ai eu la chance de la visiter le 16 mars.
+__Mécanismes de dessaisissement__ est une oeuvre crée par Béchard Hudon en 2019, dernièrement exposé?(idk if das le word) à l'exposition *Configurations du sensible* qui a lieu de 20 février à 16 avril à la place des Arts à Laval. J'ai eu la chance de la visiter le 16 mars.
 
 ## Description 
 
