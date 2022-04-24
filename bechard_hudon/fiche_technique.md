@@ -25,4 +25,9 @@ Les éléments nécessaires pour la mise en exposition:
 
 ## Expérience vécue
 
-Premièrement, j'ai dessidé de me raprocher au triangle. Ses formes triangulaires ont commencées à bouger et j'ai remarqué que les lignes dans ceux-ci bougent, ce qui m'a plu visualement. 
+Premièrement, j'ai decidé de me raprocher au triangle. Ses formes triangulaires ont commencé à bouger et j'ai remarqué que les lignes dans ceux-ci bougent aussi. Après quelques minutes de observation je me suis passé à regarder les autres formes. Afin quand je trouvais que les mouvement ont dévenus trop répétitfs, je me suis allé regarder les autres oeuvres.
+
+J'ai aimé comment les lignes dans les formes étaient en train de me hypnotiser et , mais je trouve que dans 
+
+
+Malgré que ce sont des differents formes, ilas avaient tout les mêmes mouvement 
