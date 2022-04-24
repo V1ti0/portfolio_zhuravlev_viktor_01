@@ -7,3 +7,5 @@ __Couloir à la Place des Arts__ est un œuvre numérique qui a été créé par
 ## Description
 
 ![1](/couloir/medias/1.png)
+
+Composée de 35 écrans numériques, la mosaïque d'écrans permet la diffusion d’œuvres et d'animations numériques en lien avec la culture et les arts de la scène ou inspirées par le lieu. *«Composée de 35 écrans numériques, la mosaïque d'écrans permet la diffusion d’œuvres et d'animations numériques en lien avec la culture et les arts de la scène ou inspirées par le lieu.»*
