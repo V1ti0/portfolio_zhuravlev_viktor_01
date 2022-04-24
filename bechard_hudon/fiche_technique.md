@@ -27,6 +27,8 @@ Les éléments nécessaires pour la mise en exposition:
 
 Premièrement, j'ai decidé de me raprocher au triangle. Ses formes triangulaires ont commencé à bouger et j'ai remarqué que les lignes dans ceux-ci bougent aussi. Après quelques minutes de observation je me suis passé à regarder les autres formes. Afin quand je trouvais que les mouvement ont dévenus trop répétitfs, je me suis allé regarder les autres oeuvres.
 
+[![awawaw](https://img.youtube.com/vi/2zDPpapXm1s/0.jpg)](http://www.youtube.com/watch?v=2zDPpapXm1s)
+
 J'ai aimé comment les lignes dans les formes étaient en train de me hypnotiser et , mais je trouve que dans 
 
 
