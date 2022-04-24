@@ -1,5 +1,5 @@
-## Espace culturel Georges-Émile-Lapalme
+## Couloir à la Place des Arts
 
 ![image-intro](/couloir/medias/2.png)
 
-__Espace culturel Georges-Émile-Lapalme__ sdf
+__Couloir à la Place des Arts__ est un espace public 
