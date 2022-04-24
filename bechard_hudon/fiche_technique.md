@@ -35,4 +35,4 @@ Personallement, j'aurai ajouté une bande sonore pour que l'ouevre donne du plai
 
 
 
-[![awawaw](https://img.youtube.com/shorts/80E5bZymAro/0.jpg)](https://youtube.com/shorts/80E5bZymAro?feature=share)
+[![video_exemple](https://img.youtube.com/watch/80E5bZymAro/0.jpg)](https://www.youtube.com/watch?v=80E5bZymAro)
