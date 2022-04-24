@@ -35,6 +35,8 @@ Je trouve que cette est une belle experience visuelle, j'ai aimé comment les li
 
 Personallement, j'aurai ajouté une bande sonore pour que l'ouevre donne du plaisir au oreilles aussi. Il sera beaucoup mieux si les mouvements seraient aussi alterés car je voudrais que il aura toujours quelque chose de nouveau a decouvrir en l'observant pendant des heures. 
 
+![selfie](/bechard_hudon/medias/triangle.png)![derriere_triangle](/bechard_hudon/medias/selfie.png)
+
 
 
 
