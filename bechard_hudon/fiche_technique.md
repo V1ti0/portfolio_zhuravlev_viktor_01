@@ -25,3 +25,4 @@ Les éléments nécessaires pour la mise en exposition:
 
 ## Expérience vécue
 
+Premièrement, j'ai dessidé de me raprocher au triangle. Ses formes triangulaires ont commencées à bouger et j'ai remarqué que les lignes dans ceux-ci bougent, ce qui m'a plu visualement. 
