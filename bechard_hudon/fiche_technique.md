@@ -27,9 +27,12 @@ Les éléments nécessaires pour la mise en exposition:
 
 Premièrement, j'ai decidé de me raprocher au triangle. Ses formes triangulaires ont commencé à bouger et j'ai remarqué que les lignes dans ceux-ci bougent aussi. Après quelques minutes de observation je me suis passé à regarder les autres formes. Afin quand je trouvais que les mouvement ont dévenus trop répétitfs, je me suis allé regarder les autres oeuvres.
 
-[![awawaw](https://img.youtube.com/vi/2zDPpapXm1s/0.jpg)](http://www.youtube.com/watch?v=2zDPpapXm1s)
 
-J'ai aimé comment les lignes dans les formes étaient en train de me hypnotiser et , mais je trouve que dans 
+Je trouve que cette est une belle experience visuelle, j'ai aimé comment les lignes dans les formes étaient en train de me hypnotiser. Mais malgré que l'oeuvre nous a offert 3 different parties, je trouve que ils étaient trop repétitifs. Ils avaient tous le même mouvement qui se repetaient ce que m'a ennuyé rapidement.
+
+Personallement, j'aurai ajouté une bande sonore pour que l'ouevre donne du plaisir au oreilles aussi. Il sera beaucoup mieux si les mouvements seraient aussi alterés car je voudrais que il aura toujours quelque chose de nouveau a decouvrir en l'observant pendant des heures. 
 
 
-Malgré que ce sont des differents formes, ilas avaient tout les mêmes mouvement 
+
+
+[![awawaw](https://img.youtube.com/shorts/80E5bZymAro/0.jpg)](https://youtube.com/shorts/80E5bZymAro?feature=share)
