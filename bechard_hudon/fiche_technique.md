@@ -5,4 +5,4 @@ Mécanismes de dessaisissement est une oeuvre crée par Béchard Hudon en 2019, 
 
 ## Description 
 
-![description](/bechard_hudon/media/description.png)
+![description](/bechard_hudon/medias/description.png)
