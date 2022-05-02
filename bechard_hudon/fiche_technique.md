@@ -38,6 +38,11 @@ Personallement, j'aurai ajouté une bande sonore pour que l'ouevre donne du plai
 ![selfie](/bechard_hudon/medias/selfie.png)
 
 
+Sources: 
+- https://bechardhudon.com/project/configurations-du-sensible-2022/
+- https://bechardhudon.com/project/mecanismes-de-dessaisissement_divestment-mechanisms_2020/
+
+
 
 
 
