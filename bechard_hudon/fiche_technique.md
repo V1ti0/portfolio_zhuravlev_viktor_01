@@ -7,7 +7,7 @@ __Mécanismes de dessaisissement__ est une oeuvre crée par Béchard Hudon en 20
 
 ![description](/bechard_hudon/medias/description.png)
 
-Ceci est une sculpture murale cinétique donc il est attachée au mure. Cette installation divisé en 3 parties ou en 3 formes géométriques: le carré, le triangle et le cercle. Sur chacun on peut voir 3 formes de même type; une en alluminium, 2 fait avec des impressions à jet d’encre sur acrylique. Les derniers sont tenus par des barres metaliques avec des diodes électroluminescentes et en approchant de l'une des formes ils commencent à bouger et ils se font superposer se qui donne un effet de movement aux lignes imprimés par déssus de ces formes. 
+Cette oeuvre est une sculpture murale cinétique, ce qui veut dire qu'elle est attachée au mur. Cette installation est divisée en trois parties, ou en trois formes géométriques: un carré, un triangle et un cercle. Sur chacune des formes, on peut voir trois autres formes de même type: une faite en aluminium et deux faits avec des impressions à jet d’encre sur acrylique. Ces derniers sont tenus par des barres métalliques et des diodes électroluminescentes. En s'approchant d'une des formes, elles commencent à bouger, jusqu'à se superposer, ce qui donne une illusion de mouvement par lignes imprimés sur les formes. 
 
 ![triangle](/bechard_hudon/medias/triangle.png)![derriere_triangle](/bechard_hudon/medias/derriere_triangle.png)
 
@@ -28,12 +28,12 @@ Court video de l'expérience:
 
 [![video_exemple](https://img.youtube.com/vi/80E5bZymAro/0.jpg)](https://www.youtube.com/watch?v=80E5bZymAro)
 
-Premièrement, j'ai decidé de me raprocher au triangle. Ses formes triangulaires ont commencé à bouger et j'ai remarqué que les lignes dans ceux-ci bougent aussi. Après quelques minutes de observation je me suis passé à regarder les autres formes. Afin quand je trouvais que les mouvement ont dévenus trop répétitfs, je me suis allé regarder les autres oeuvres.
+Premièrement, j'ai décidé de me rapprocher au triangle. Ses formes triangulaires ont commencé à bouger ce qui me donnais l'impression que les lignes bougeaient aussi, ce que je trouvais fascinant.  
 
+Je trouve que c'était une belle expérience visuelle. J'ai aimé que les lignes dans les formes étaient hypnotisantes. Malheureusement, je trouve que l'oeuvre était trop répétitive. Ils avaient tous le même mouvement qui se répétaient, ce que m'a ennuyé rapidement.
 
-Je trouve que cette est une belle experience visuelle, j'ai aimé comment les lignes dans les formes étaient en train de me hypnotiser. Mais malgré que l'oeuvre nous a offert 3 different parties, je trouve que ils étaient trop repétitifs. Ils avaient tous le même mouvement qui se repetaient ce que m'a ennuyé rapidement.
+Personnellement, j'aurai ajouté une bande sonore pour que l'oeuvre donne du plaisir aux oreilles aussi. Ça aurait été mieux si les mouvements seraient aussi altérés, car il y aurait toujours quelque chose de nouveau à découvrir en l'observant pendant des heures. 
 
-Personallement, j'aurai ajouté une bande sonore pour que l'ouevre donne du plaisir au oreilles aussi. Il sera beaucoup mieux si les mouvements seraient aussi alterés car je voudrais que il aura toujours quelque chose de nouveau a decouvrir en l'observant pendant des heures. 
 
 ![selfie](/bechard_hudon/medias/selfie.png)
 
