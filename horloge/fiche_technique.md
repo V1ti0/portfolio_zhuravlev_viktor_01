@@ -1,4 +1,4 @@
 ## L'horloge de l'apocalypse
-![1](1.png)
+![1](/horloge/medias/1.png)
 
 
