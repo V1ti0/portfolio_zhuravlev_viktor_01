@@ -32,7 +32,7 @@ Premièrement, j'ai décidé de me rapprocher au triangle. Ses formes triangulai
 
 Je trouve que c'était une belle expérience visuelle. J'ai aimé que les lignes dans les formes étaient hypnotisantes. Malheureusement, je trouve que l'oeuvre était trop répétitive. Ils avaient tous le même mouvement qui se répétaient, ce que m'a ennuyé rapidement.
 
-Personnellement, j'aurai ajouté une bande sonore pour que l'oeuvre donne du plaisir aux oreilles aussi. Ça aurait été mieux si les mouvements seraient aussi altérés, car il y aurait toujours quelque chose de nouveau à découvrir en l'observant pendant des heures. 
+Personnellement, j'aurai ajouté une bande sonore pour que l'oeuvre donne du plaisir aux oreilles aussi. Ça aurait été mieux si les mouvements étaient aussi altérés, car il y aurait toujours quelque chose de nouveau à découvrir en l'observant pendant des heures.
 
 
 ![selfie](/bechard_hudon/medias/selfie.png)
