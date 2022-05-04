@@ -1,7 +1,7 @@
 ## L'horloge de l'apocalypse
 ![projection_bleu](/moebius_horloge/medias/projection_bleu.jpg)
 
-__L'horloge de l'apocalypse__ est une oeuvre intéractive crée par les étudinats de TIM; Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco. Cette oeuvre a été uniquement exposé au grand Studio de Montmorency de 24 au 28 mars 2022. J'ai eu la chance de le visiter le 23 mars avant que l'oeuvre a été disponoble au publique.
+__L'horloge de l'apocalypse__ est une oeuvre interactive créée par les étudiants de TIM; Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco. Cette oeuvre a été uniquement exposé au grand Studio de Montmorency de 24 au 28 mars 2022. J'ai eu la chance de le visiter le 23 mars avant que l'œuvre a été disponible au publique.
 
 ## Description
 
