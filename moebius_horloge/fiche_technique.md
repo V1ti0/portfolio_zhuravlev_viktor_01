@@ -50,13 +50,13 @@ Liste des éléments nécessaires pour la mise en exposition:
 ## Expérience vécue
 
 
-Premierement, moi puis mes ptis amies avons entrées dans le pti studio le. La experience a commencé quand un texte est apparu sur le mur devant nous. Nous étions indiqués de faire tourner la flèche de 12 heures à 1 heure sur l'horloge devant nous. Après cela, nous étions entourné par un paysage fait en vectoriel et on a fait bouger la flèche de l'horloge pour avancer le temps. À chaque fois, les paysages ce changèrent en devenant plus modernes. On a vecu plusieurs époques, commencant par le temps quand on a chassé presque nus et terminant par les villes avec de l'archetechture moderne. Toute cette expérience a été acompagné par la musique de même ambience que les paysages autours de nous. Enfin quand la flèche s'aprochée de 12, les paysages devenaient plus dramatiques montrant comment les guerres et les stations nuclearies affectent la planète en devenant un chaos. QUand onn a atteint le numero 12 l'écran a devenu noir et le téléphone qui a été a gauche de nous a commencé a sonner. En repondant au téléphone une personne nous a répondu par « Il est temps d'agir ».
+Premierement, moi puis mes ptis amies avons entrées dans le pti studio le. La experience a commencé quand un texte est apparu sur le mur devant nous. Nous étions indiqués de faire tourner la flèche de 12 heures à 1 heure sur l'horloge devant nous. Après cela, nous étions entourné par un paysage fait en vectoriel et on a fait bouger la flèche de l'horloge pour avancer le temps. À chaque fois, les paysages ce changèrent en devenant plus modernes. On a vecu plusieurs époques, commencant par le temps quand on a chassé presque nus et terminant par les villes avec de l'archetechture moderne. Toute cette expérience a été acompagné par la musique de même ambience que les paysages autours de nous. Enfin quand la flèche s'aprochée de 12, les paysages devenaient plus dramatiques montrant comment les guerres et les stations nuclearies affectent la planète en devenant un chaos. QUand onn a atteint le numero 12 l'écran a devenu noir et le téléphone qui a été a gauche de nous a commencé a sonner. En repondant au téléphone une personne nous a répondu par « Il est temps d'agir ». Sur le mur le mêmes mots sont apparus et c'était donc la fin de l'experience. 
+
+J'ai vraiment aimé cette projet interactive. Le visuel était vraiment beau, j'ai aimé chauque paysage a chaque heure. La musique qui les a acompagné était vraiment bonne aussi et elle donnait beacoup de ambience ce que a vraiment enrichi l'experience. Je trouve que le message est important aussi et le projet reussi a bien l'integrer.
+
+Honnêtement je n'aurai rien changé car je trouve que cette ouevre a vraiment un vibe qui ne devra pas ètre modifié car chaque partie de celui ci cree la perfectioon
 
 
-
-
-- Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
--  Ce qui vous a plu, vous a donné des idées et justifications
 -  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
 ## références
