@@ -50,7 +50,10 @@ Liste des éléments nécessaires pour la mise en exposition:
 ## Expérience vécue
 
 
-Premierement, moi puis mes ptis amies avons entrées dans le pti studio le. La experience a commencé quand sur 
+Premierement, moi puis mes ptis amies avons entrées dans le pti studio le. La experience a commencé quand un texte est apparu sur le mur devant nous. Nous étions indiqués de faire tourner la flèche de 12 heures à 1 heure sur l'horloge devant nous. Après cela, nous étions entourné par un paysage fait en vectoriel et on a fait bouger la flèche de l'horloge pour avancer le temps. À chaque fois, les paysages ce changèrent en devenant plus modernes. On a vecu plusieurs époques, commencant par le temps quand on a chassé presque nus et terminant par les villes avec de l'archetechture moderne. Toute cette expérience a été acompagné par la musique de même ambience que les images 
+
+
+
 
 - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 -  Ce qui vous a plu, vous a donné des idées et justifications
