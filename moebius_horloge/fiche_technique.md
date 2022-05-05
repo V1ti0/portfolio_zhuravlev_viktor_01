@@ -1,18 +1,49 @@
 ## L'horloge de l'apocalypse
 ![projection_bleu](/moebius_horloge/medias/projection_bleu.jpg)
 
-__L'horloge de l'apocalypse__ est une oeuvre interactive créée par les étudiants de TIM; Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco. Cette oeuvre a été uniquement exposé au grand Studio de Montmorency de 24 au 28 mars 2022. J'ai eu la chance de le visiter le 23 mars avant que l'œuvre a été disponible au publique.
+__L'horloge de l'apocalypse__ est une oeuvre interactive créée par les étudiants de TIM; Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco. Cette oeuvre a été uniquement exposé au petit Studio de Montmorency de 24 au 28 mars 2022. J'ai eu la chance de le visiter le 23 mars avant que l'œuvre a été disponible au publique.
 
 ## Description
 
 ![installation](/moebius_horloge/medias/installation.jpg)
 
-« L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale. »
+« L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale. » 
 
 
-## description
-- Description de l'oeuvre ou du dispositif multimédia 
-- Explications sur la mise en espace de l'oeuvre ou du dispositif 
+
+Les composantes et techniques de l'oeuvre:
+
+-Téléphone à roulette
+-Piédestal romain
+-Horloge
+-Chiffres romains
+-4 haut-parleurs
+-8 fils XLR 3
+-Focusrite carte de son
+-3 projecteurs vidéo lentille ultra wide 0.3
+-3 système d'acrochage
+-1 caméra Sony a6500
+-Un projecteur de lumière couleur
+-2 fils XLR 3 conducteurs de 20'
+-Console DMX
+-Interface DMX USB
+-Électricité
+-8 cordons IEC (pour l'alimentation des haut-parleurs)
+-2 extensions 3 fiches et 3 conducteurs
+-2 multiprise
+-Connection au reseau
+-5 fils ethernet
+-1 ordinateur de l'école ou 2 si le premier ne suffit pas
+-2 micro-contrôleur (Arduino)
+-Kit de camera
+-Kit de detection de présence (capteur de mouvement (kinect) pour le spotlight)
+-1 potentiomètre
+-Toile blanche (pour projection)
+-1 bouton
+-8 safety
+
+
+
 - Liste des composantes et techniques de l'oeuvre ou du dispositif 
 - Liste des éléments nécessaires pour la mise en exposition 
 
