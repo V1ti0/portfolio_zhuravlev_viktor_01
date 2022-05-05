@@ -27,7 +27,6 @@ Les composantes et techniques de l'oeuvre:
 - 2 fils XLR 3 conducteurs de 20'
 - Console DMX
 - Interface DMX USB
-- Électricité
 - 8 cordons IEC (pour l'alimentation des haut-parleurs)
 - 2 extensions 3 fiches et 3 conducteurs
 - 2 multiprise
@@ -43,9 +42,11 @@ Les composantes et techniques de l'oeuvre:
 - 8 safety
 
 
+Liste des éléments nécessaires pour la mise en exposition:
 
-- Liste des composantes et techniques de l'oeuvre ou du dispositif 
-- Liste des éléments nécessaires pour la mise en exposition 
+- Une piece à part
+- Électricité
+
 
 ## expérience vécue
 - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
