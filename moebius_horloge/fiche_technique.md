@@ -50,7 +50,7 @@ Liste des éléments nécessaires pour la mise en exposition:
 ## Expérience vécue
 
 
-
+Premierement, moi puis mes ptis amies avons entrées dans le pti studio le. La experience a commencé quand sur 
 
 - Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 -  Ce qui vous a plu, vous a donné des idées et justifications
