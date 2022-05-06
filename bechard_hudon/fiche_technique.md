@@ -1,13 +1,13 @@
 # Mécanismes de dessaisissement
 ![image_representation](/bechard_hudon/medias/image_representation.png)
 
-__Mécanismes de dessaisissement__ est une oeuvre crée par Béchard Hudon en 2019, dernièrement exposé à l'exposition *Configurations du sensible* qui a lieu de 20 février à 16 avril à la place des Arts à Laval. J'ai eu la chance de la visiter le 16 mars de 2022.
+__Mécanismes de dessaisissement__ est une oeuvre crée par Béchard Hudon en 2019, dernièrement présenter à l'exposition *Configurations du sensible*. Celle-ci eu lieu du 20 février au 16 avril, à la Maison des Arts de Laval. J'ai eu la chance de la visiter le 16 mars de 2022.
 
 ## Description 
 
 ![description](/bechard_hudon/medias/description.png)
 
-Cette oeuvre est une sculpture murale cinétique, ce qui veut dire qu'elle est attachée au mur. Cette installation est divisée en trois parties, ou en trois formes géométriques: un carré, un triangle et un cercle. Sur chacune des formes, on peut voir trois autres formes de même type: une faite en aluminium et deux faits avec des impressions à jet d’encre sur acrylique. Ces derniers sont tenus par des barres métalliques et des diodes électroluminescentes. En s'approchant d'une des formes, elles commencent à bouger, jusqu'à se superposer, ce qui donne une illusion de mouvement par lignes imprimés sur les formes. 
+Cette oeuvre est une sculpture murale cinétique, ce qui veut dire qu'elle est attachée au mur. Cette installation est divisée en trois parties, ou en trois formes géométriques: un carré, un triangle et un cercle. Sur chacune des formes, on peut en voir trois autres de même type: une faite en aluminium et deux faits avec des impressions à jet d’encre sur acrylique. Ces derniers sont tenus par des barres métalliques et des diodes électroluminescentes. En s'approchant d'une des formes, elles commencent à bouger, jusqu'à se superposer, ce qui donne une illusion de mouvement par lignes imprimés sur les formes. 
 
 ![triangle](/bechard_hudon/medias/triangle.png)![derriere_triangle](/bechard_hudon/medias/derriere_triangle.png)
 
