@@ -63,3 +63,6 @@ Honnêtement je n'aurai rien changé car je trouve que cette ouevre a vraiment u
 
 ![fin](/moebius_horloge/medias/fin.jpg)
 
+## Sources
+https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html
+
