@@ -39,5 +39,6 @@ Pour mes propres créations, je souhaiterait rajouter de la musique aux images p
 
 ## Sources
 https://placedesarts.com/fr/capsule/le-cycle-de-limaginaire
+
 https://placedesarts.com/fr/produire-evenement/location-salle/espace-culturel-georges-emile-lapalme
 
