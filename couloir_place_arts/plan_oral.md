@@ -34,4 +34,8 @@ Il n'y avait aucun geste à poser, vue que celle-ci n'était pas intéractive. L
 J'aurais préféré qu'il y ai de la musique, car je trouvais le tout assez ennuyant.
 
 # Conclusion
+La mosaïque sert a projeter des oeuvres de toutes sortes.
 
+### Élément à retenir
+
+le professionalisme, la diversité et la signification de chaque oeuvres
