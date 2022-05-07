@@ -12,25 +12,25 @@ __Couloir à la Place des Arts__ est une œuvre numérique qui a été créé pa
 
 *«Composée de 35 écrans numériques, la mosaïque d'écrans permet la diffusion d’œuvres et d'animations numériques en lien avec la culture et les arts de la scène ou inspirées par le lieu.»*
 
+Lors de ma visite, le nom de la projection présenté est *Le cycle de l'imaginaire*, créée par Delphine Dussoub.
 
-## description
-- Description de l'oeuvre ou du dispositif multimédia 
-- Explications sur la mise en espace de l'oeuvre ou du dispositif 
-- Liste des composantes et techniques de l'oeuvre ou du dispositif 
-- Liste des éléments nécessaires pour la mise en exposition 
+*« Inaugurée dans la cadre de la semaine de relâche, la mosaïque Le Cycle de l'imaginaire de Delphine Dussoubs est un périple visuel qui nous transporte dans l'univers du conte. Elle nous fait voyager, en l'espace d'une journée, parmi six univers différents qui racontent chacun leur histoire.* 
 
-## expérience vécue
-- Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
--  Ce qui vous a plu, vous a donné des idées et justifications
--  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+*Établie à Paris ainsi qu'à Montréal, l'artiste Delphine Dussoubs travaille généralement pour des spectacles de musique et des publicités. Formée en 2D à ESAAR et en animation 3D à EMCA en France, elle fait aussi partie des VJ Collective BBBlaster depuis 2012.»*
+###### source(https://placedesarts.com/fr/capsule/le-cycle-de-limaginaire)
 
-## références
+Sur les écrans étaient projetées des animations de tout thèmes. Il y avait une sur des animaux sauvages, comme des tigres et des singes, un autre avec des bâtiments ressemblant à la Grèce, une autre ressemblait à l'egypte avec ses pharaons, une autre représentait la culture indienne, etc.
 
-# photographies
-- photographie de l'oeuvre ou du dispositif dans son ensemble
-- photographies des composantes de l'oeuvre
-- photographies des éléments nécessaires à sa mise en espace
-- photographie du cartel ou du panneau explicatif
-- autoportrait (photo) de vous avec l'oeuvre
-- croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-- possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+![indien](/couloir_place_arts/medias/animation_occident.png)
+
+*« C'est à l'occasion du réaménagement complet en 2011 que le Hall a été nommé Espace culturel Georges-Émile-Lapalme, en l'honneur du premier titulaire du ministère des Affaires culturelles du Québec (1961-1964) et instigateur de la création de la Place des Arts. Ce réaménagement a été l’occasion de mettre en valeur deux œuvres d’art majeures existantes soit Comme si le temps...de la rue de Pierre Granche, ainsi que l’œuvre de Claude Bettinger, L’artiste est celui qui fait voir l’autre côté des choses.»*
+###### source(https://placedesarts.com/fr/produire-evenement/location-salle/espace-culturel-georges-emile-lapalme)
+
+
+## Expérience vécue
+
+![autoportrait](/couloir_place_arts/medias/selfie.jpg)
+
+Lorsque je suis arrivé sur place, tout ce que j'avais à faire était de me tenir debout, puis de regarder les animations. Il n'y avait aucun geste à poser, vue que celle-ci n'était pas intéractive. Les couleurs étaient vives, et les thèmes étaient facile à reconnaitre, ce que j'ai très apprécié. Pour mes propres créations, je souhaiterait rajouter de la musique aux images pour les rendres plus captivantes et intéressantes.
+
+
