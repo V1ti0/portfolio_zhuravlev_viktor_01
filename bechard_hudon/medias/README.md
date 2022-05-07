@@ -1,1 +1,1 @@
-Dans ce dossier ce trouvent les photos.
+Ici ce trouvent les medias
