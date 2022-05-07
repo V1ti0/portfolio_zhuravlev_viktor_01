@@ -9,6 +9,8 @@ __Mécanismes de dessaisissement__ est une oeuvre crée par Béchard Hudon en 20
 
 Cette oeuvre est une sculpture murale cinétique, ce qui veut dire qu'elle est attachée au mur. Cette installation est divisée en trois parties, ou en trois formes géométriques: un carré, un triangle et un cercle. Sur chacune des formes, on peut en voir trois autres de même type: une faite en aluminium et deux faits avec des impressions à jet d’encre sur acrylique. Ces derniers sont tenus par des barres métalliques et des diodes électroluminescentes. En s'approchant d'une des formes, elles commencent à bouger, jusqu'à se superposer, ce qui donne une illusion de mouvement par lignes imprimés sur les formes. 
 
+![croquis](/bechard_hudon/croquis/croquis.png)
+
 ![triangle](/bechard_hudon/medias/triangle.png)![derriere_triangle](/bechard_hudon/medias/derriere_triangle.png)
 
 Les composantes et techniques de l'oeuvre:
