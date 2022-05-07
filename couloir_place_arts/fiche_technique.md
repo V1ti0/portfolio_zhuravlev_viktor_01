@@ -12,6 +12,8 @@ __Couloir à la Place des Arts__ est une œuvre numérique qui a été créé pa
 
 *«Composée de 35 écrans numériques, la mosaïque d'écrans permet la diffusion d’œuvres et d'animations numériques en lien avec la culture et les arts de la scène ou inspirées par le lieu.»*
 
+![croquis](/couloir_place_arts/croquis/croquis.png)
+
 Lors de ma visite, le nom de la projection présenté est *Le cycle de l'imaginaire*, créée par Delphine Dussoub.
 
 *« Inaugurée dans la cadre de la semaine de relâche, la mosaïque Le Cycle de l'imaginaire de Delphine Dussoubs est un périple visuel qui nous transporte dans l'univers du conte. Elle nous fait voyager, en l'espace d'une journée, parmi six univers différents qui racontent chacun leur histoire.* 
