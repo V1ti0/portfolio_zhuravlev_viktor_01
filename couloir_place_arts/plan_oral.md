@@ -24,13 +24,13 @@ date de visite: 4 mars 2022
 - mosaïque
 - animations numériques
 
-# Éxperience vécue
+### Éxperience vécue
 
 Lorsque je suis arrivé sur place, tout ce que j'avais à faire était de me tenir debout, puis de regarder les animations.
 
 Il n'y avait aucun geste à poser, vue que celle-ci n'était pas intéractive. Les couleurs étaient vives, et les thèmes étaient facile à reconnaitre, ce que j'ai très apprécié.
 
-# Appréciation
+### Appréciation
 J'aurais préféré qu'il y ai de la musique, car je trouvais le tout assez ennuyant.
 
 # Conclusion
